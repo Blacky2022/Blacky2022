@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Blacky202</h1>
-<h3 align="center">IT student passionate about web development, with a focus on backend complemented by front-end</h3>
+<h3 align="center">Passionate about web development, with a focus on backend complemented by front-end</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blacky2022&label=Profile%20views&color=0e75b6&style=flat" alt="blacky2022" /> </p>
 
