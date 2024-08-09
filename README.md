@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blacky2022&label=Profile%20views&color=0e75b6&style=flat" alt="blacky2022" /> </p>
 
-- 🔭 I’m currently working on [Trade mood app](https://github.com/Blacky2022/trademoodweb)
-
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **bartek.mlynarski18@gmail.com**
