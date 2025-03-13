@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Blacky202</h1>
 <h3 align="center">Passionate about web development, with a focus on backend complemented by front-end</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blacky2022&label=Profile%20views&color=0e75b6&style=flat" alt="blacky2022" /> </p>
-
 - 🌱 I’m currently learning **.NET • Design Patterns and Application Architecture • Web Development with ASP.NET Core**
+
+- 🛠️ I'm currently working on **HelpHive - Ticketing system app designed to make ticketing a no-fuss affair**
 
 - 📫 How to reach me **mlynarskibartlomiej42@gmail.com**
 
@@ -16,9 +16,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
